@@ -19,9 +19,9 @@ public class Main
       int myNum = 15;
       System.out.println(myNum);                    // 15
       
-      Final Variables
-If you don't want others (or yourself) to overwrite existing values, use the final keyword 
-(this will declare the variable as "final" or "constant", which means unchangeable and read-only):
+    //  Final Variables
+//If you don't want others (or yourself) to overwrite existing values, use the final keyword 
+//(this will declare the variable as "final" or "constant", which means unchangeable and read-only):
      final int myNum = 15;
      
      
